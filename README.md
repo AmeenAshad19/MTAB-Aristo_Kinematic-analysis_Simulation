@@ -15,7 +15,7 @@ Found the following parameters for the robot.
 <li>Jacobian</li>
 <li>Trajectory Planning</li>
 </ol>
-Also simulated the forward and inverse kinematics for the robot in MATLAB.
+Also simulated the forward and inverse kinematics for the robot in MATLAB. 
 
 ## Software used for Simulation - Inbuilt
 <b>RoboAnalyzer</b>

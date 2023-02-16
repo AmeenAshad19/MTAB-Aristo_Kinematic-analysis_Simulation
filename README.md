@@ -1,6 +1,7 @@
 # MTAB-Aristo Kinematic-analysis & Simulation
 Developed a robot model and simulated it and performed kinematic analysis for the robot modelled to understand the spatial positions of the robot.
 
+
 ## MTAB Aristo Robot Model Devoloped
 ![image](https://user-images.githubusercontent.com/99457944/182890657-1aa0003d-99b3-4d4b-a732-d7e06fe7b525.png)
 
